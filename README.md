@@ -1,8 +1,11 @@
 [![Discord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/discord.png)](https://discord.com/)
 [![Powercord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/powercord.png)](https://powercord.dev/)
 
-<h1 align=center> CreArts </h1>
-<h3 align=center> CreArts is an easily customizable Powercord theme that customizes the Discord interface. </h3>
+![Banner](https://user-images.githubusercontent.com/58918358/113749822-5ebf6200-970a-11eb-8795-20a005a9828f.png)
+
+## Preview
+
+CreArts is an easily customizable Powercord theme that customizes the Discord interface.
 
 ![Preview](https://i.imgur.com/cjUhHds.png)
 
