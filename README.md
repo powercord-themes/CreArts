@@ -3,10 +3,11 @@
 
 ![Preview](https://i.imgur.com/cjUhHds.png)
 
+## Getting Started
+
 ### Prerequisites
 
 For this Powercord theme you need the [**Discord Canary**](https://discordia.me/en/canary) Version and a [**Powercord**](https://powercord.dev/installation) Instalation.
-
 
 ### Installation
 
