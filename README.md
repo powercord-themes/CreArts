@@ -1,7 +1,7 @@
 [![Discord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/discord.png)](https://discord.com/)
 [![Powercord](https://raw.githubusercontent.com/CorellanStoma/CorellanStoma/master/shields/powercord.png)](https://powercord.dev/)
 
-![Banner](https://user-images.githubusercontent.com/58918358/113749822-5ebf6200-970a-11eb-8795-20a005a9828f.png)
+![Banner](https://user-images.githubusercontent.com/58918358/113750392-063c9480-970b-11eb-8cdf-7456b79a07b8.png)
 
 ## Preview
 
